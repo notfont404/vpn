@@ -17,6 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"United Stated","country":"United Stated","image":"unitedstates","ip":"34.136.13.123","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.216","active":"true","signal":"a"},
 
   ]
 }
